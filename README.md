@@ -1,5 +1,12 @@
-<h1 align="center">안녕하세요 👋, 저는 박용수입니다.</h1>
-<h3 align="center">I am Yongsu Park, a junior backend developer. I majored in computer information science and used SQL and various business tools. I used Slack, Jira, and Google tools. Thank you for visiting my Github.</h3>
+<h1 align="center">안녕하세요. 저는 Account Manager | Partnership & Sales Strategy Specialist </h1>
+<h3 align="center">Hello. Thank you for reading. I am Yongsu Park, an account manager!
+
+I am a professional with more than 2 years of sales experience, and I have strengths in building partnerships, managing clients, and establishing sales strategies. 
+While working as an account manager at my previous company, I achieved results in maximizing the increase in sales of clients. 
+In particular, I successfully led long-term cooperation with clients through data-based customized consulting and optimal business strategies.
+
+I will continue to take on new challenges as an account manager and achieve results that simultaneously realize business growth and customer satisfaction. 
+I will create mutual growth between the company and its partners based on active communication and problem-solving capabilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkyongsoo&label=Profile%20views&color=0e75b6&style=flat" alt="parkyongsoo" /> </p>
 
