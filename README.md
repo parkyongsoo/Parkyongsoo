@@ -39,8 +39,10 @@ I will create mutual growth between the company and its partners based on active
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkyongsoo&show_icons=true&locale=en&layout=compact" alt="parkyongsoo" />
 </p>
-<p></P>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkyongsoo&show_icons=true&locale=en" alt="parkyongsoo" /></p>
+<p>
+
+</P>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=parkyongsoo&show_icons=true&locale=en" alt="parkyongsoo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkyongsoo&" alt="parkyongsoo" /></p>
 
