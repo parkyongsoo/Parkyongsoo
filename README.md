@@ -9,7 +9,17 @@ I will continue to take on new challenges as an account manager and achieve resu
 I will create mutual growth between the company and its partners based on active communication and problem-solving capabilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkyongsoo&label=Profile%20views&color=0e75b6&style=flat" alt="parkyongsoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/? username=parkyongsoo&label=Profile%20views&color=0e75b6&style=flat" alt="parkyongsoo" /> </p>
 
+- 👨‍💻 내 경력 기술은
+- [https://drive.google.com/file/d/1iW_fgbWzkN12MSbnxmtFOx0pdxPuhAg9/view? usp=sharing]
+
+- 📫 저에게 연락하는 방법
+- **dydtn4748@naver.com**
+
+- 📄 내 경험에 대해 알아
+-  [https://drive.google.com/file/d/1vk3YZ47nNp-yCbVZJhb991tU9ggdPVnw/view? usp=공유]
+</p>
 <h3 align="left">저와 소통하세요:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yongsoo-park-827149224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yongsoo-park-827149224/" height="30" width="40" /></a>
